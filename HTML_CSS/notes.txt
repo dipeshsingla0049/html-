@@ -1,0 +1,16 @@
+<h1>hellooo</h1>
+
+
+3 ways of css:
+inline css
+internal css
+# inline overwrites internal
+
+
+
+
+two types of elements:
+inline
+block  (on the next line)
+
+using <ul> tag we can create unordered list
